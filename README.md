@@ -7,7 +7,7 @@
 <li>How does the game affect television viewership?</li>
 <li>How have viewership, TV ratings, and ad cost evolved over time?</li>
 <li>Who are the most prolific musicians in terms of halftime show performances?</li>
-</ul>
+
 ![16464994135_c9fc03e148_k](https://user-images.githubusercontent.com/63126292/98050689-dbff4780-1df7-11eb-8c0e-a6b2a538f5a9.jpg)
 
 <em><a href="https://www.flickr.com/photos/huntleypaton/16464994135/in/photostream/">Left Shark Steals The Show</a>. Katy Perry performing at halftime of Super Bowl XLIX. Photo by Huntley Paton. Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0).</em></p>
